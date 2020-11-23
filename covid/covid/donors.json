@@ -1,0 +1,2 @@
+{ "_id" : { "$oid" : "5fb91ae30fda0013b83363af" }, "name" : "Muhammad Sanan", "email" : "sanankhan16@gmail.com", "password" : "khankhan", "number" : 3.119171113E9, "__v" : 0 }
+{ "_id" : { "$oid" : "5fb91b0d0fda0013b83363b0" }, "name" : "Esar-ul-haq", "email" : "sanankhan16@outlook.com", "password" : "khankhan", "number" : 54634, "__v" : 0 }

@@ -1,0 +1,8 @@
+{ "_id" : { "$oid" : "5fa8eb9c84ed93329c3474b0" }, "name" : "University town", "bgimg" : "unitown.jpg", "lockdown" : "LockDown", "__v" : 0 }
+{ "_id" : { "$oid" : "5fa8eba984ed93329c3474b1" }, "name" : "Ghanta Gar", "bgimg" : "ghanta.jpg", "lockdown" : "Safe", "__v" : 0 }
+{ "_id" : { "$oid" : "5fa8ebb384ed93329c3474b2" }, "name" : "Government Road", "bgimg" : "govroad.jpg", "lockdown" : "LockDown", "__v" : 0 }
+{ "_id" : { "$oid" : "5fa8ebbd84ed93329c3474b3" }, "name" : "Hashnaghari Road", "bgimg" : "hashnaghari.jpg", "lockdown" : "Safe", "__v" : 0 }
+{ "_id" : { "$oid" : "5fa8ebd784ed93329c3474b4" }, "name" : " Khybar Bazar", "bgimg" : "khtberbazar.jpg", "lockdown" : "Safe", "__v" : 0 }
+{ "_id" : { "$oid" : "5fa8ebe184ed93329c3474b5" }, "name" : "Peshawar Sadder", "bgimg" : "sadder.jpg", "lockdown" : "LockDown", "__v" : 0 }
+{ "_id" : { "$oid" : "5fa8ebef84ed93329c3474b6" }, "name" : "University of Peshawar", "bgimg" : "uop.jpg", "lockdown" : "LockDown", "__v" : 0 }
+{ "_id" : { "$oid" : "5fac0a6ad3d4861ac0f16fad" }, "name" : "Islamia Collage", "bgimg" : "islamia.jpg", "lockdown" : "Safe", "__v" : 0 }
